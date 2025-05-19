@@ -88,4 +88,5 @@ Licensed under the **MIT License**.
   - GitHub: [https://github.com/Hasan-Malek]
   - LinkedIn: [https://www.linkedin.com/in/hasan-malek-125036297/]
 
-<p align="center"> *Built for forensics experts and cybersecurity professionals! 🛡️💻* </p>
+
+<p align="center"> <b>Built for forensics experts and cybersecurity professionals! 🛡️💻</b> </p>
