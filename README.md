@@ -45,7 +45,7 @@ Misuse may violate laws or terms of service. The author isn’t responsible for 
 ### 🔧 Compile the Tool
 
 ```bash
-gcc -o pwned_emi PwnedEmi.c
+gcc -o pwned_emi PwnedEMI.c
 ```
 
 ## 🚀 Run It
