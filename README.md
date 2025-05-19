@@ -1,4 +1,4 @@
-![s1](https://github.com/user-attachments/assets/8d2c5d2b-c5cf-4cda-8795-cece9555f1a6)![s1](https://github.com/user-attachments/assets/63a27f37-c901-4eee-9b48-fbe0f6151786)# Pwned EMI v2.0 - Enhanced Edition 📱💻
+![s1](https://github.com/user-attachments/assets/8d2c5d2b-c5cf-4cda-8795-cece9555f1a6)# Pwned EMI v2.0 - Enhanced Edition 📱💻
 
 **Pwned EMI v2.0** is a slick C-based tool to bypass EMI-locked Android phones for data transfer using a WiFi FTP APK! 📂🚀  
 Install the WiFi FTP APK on your phone, connect your phone and PC via a mobile or PC hotspot, and let this tool scan your network to download files effortlessly.  
